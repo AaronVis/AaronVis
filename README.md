@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @AaronVis
-- 👀 I’m interested in coding ...
-- 🌱 I’m currently learning  basic codings...
-- 
-.
 
-<!---
-AaronVis/AaronVis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+
+​AI & Automation: Building custom AI-driven workflows and automation pipelines to streamline complex, repetitive processes.
+
+​Mindset: Focused on learning, engineering solutions, and capitalizing on emerging tech paradigms rather than resisting industry shifts.
+
+​Goal: Looking to contribute to dynamic startup environments where technical agility and problem-solving drive product growth.
