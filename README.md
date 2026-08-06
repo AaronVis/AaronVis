@@ -1,10 +1,3 @@
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aaron%20Vishal%20Babu&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Consulting%20%7C%20Decision%20Intelligence%20%7C%20Data%20%26%20BI&descAlignY=58&descSize=17"/>
-<br>
-
-</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aaron%20Vishal%20Babu&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Consulting%20%7C%20Decision%20Intelligence%20%7C%20Data%20%26%20BI&descAlignY=58&descSize=17"/>
@@ -162,7 +155,7 @@ Competitor benchmarking project (team of 5) using Onclusive Social (Digimind).
 
 ```yaml
 learning:
-  - French (A1, targeting oral fluency before Jan 2027)
+  - French (A2, targeting oral fluency before Jan 2027)
 building:
   - Automation-driven BI portfolio work
 open_to:
@@ -178,3 +171,8 @@ open_to:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A56DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaron-vishal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-psi-six-56.vercel.app)
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
